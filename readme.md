@@ -3,6 +3,8 @@
 
 Mika is a simple Discord bot for music
 
+
+ [![Run on Repl.it](https://repl.it/badge/github/Shaynlink/mika)](https://repl.it/github/Shaynlink/mika)
 ## Commands
 prefix: **m!**
 | Command | Description |
